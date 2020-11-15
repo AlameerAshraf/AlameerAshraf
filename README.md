@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**AlameerAshraf/AlameerAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alameer. I work as a full-time software engineer. In my spare time I'm working as a full time software engineer.
+A full stack developer with 3+ years of experience.
+I'm a Computer Science and ITI graduate.
+In love with JavaScript ❤.
 
-Here are some ideas to get you started:
+### Getting in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/itisalameer" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/alameer-ashraf/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
+<a href="https://medium.com/@alameerashraf" title="Follow me on Medium">
+  <img
+    width="24"
+    alt="Follow me on Medium"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
+  /></a>
