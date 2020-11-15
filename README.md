@@ -1,9 +1,10 @@
-### Hi there! 👋
+### Hello coders! 🎉
 
 I'm Alameer. I work as a full-time software engineer. In my spare time I'm working as a full time software engineer.
-A full stack developer with 3+ years of experience.
-I'm a Computer Science and ITI graduate.
+A full stack developer with 3+ years of experience.<br>
+I'm a Computer Science and ITI graduate. <br>
 In love with JavaScript ❤.
+
 
 ### Getting in touch
 
