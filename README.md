@@ -1,9 +1,18 @@
 ### Hello coders! 🎉
 
-I'm Alameer. I work as a full-time software engineer. In my spare time I'm working as a full time software engineer.
-A full stack developer with 5+ years of experience.<br>
+A full stack developer with 5+ years of experience. As a Computer Science and ITI graduate I have strong experience 
+in algorithms and data structures. Working as a full-time developer and developing freelance projects on the side 
+gave me the opportunity to work on a wide spectrum of technologies. Backend: C#, NodeJS, Python, GO Frontend: 
+AngularJS, ReactJS, Angular +11, Mobile: Ionic, React Native. In many projects I was responsible of the full cycle from 
+design and inception to deployment and production.<br>
+
 I'm a computer science and ITI graduate. <br>
 In love with JavaScript ❤.
+
+I deliver fast programs, fast! <br>
+I'm experinced in digital transofmration. <br>
+I'm great communicator and clients tend to love working with me. <br>
+I understand the client's business domain and needs. <br>
 
 
 ### Getting in touch
