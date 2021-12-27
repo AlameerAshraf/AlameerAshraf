@@ -14,6 +14,12 @@ I'm experinced in digital transofmration. <br>
 I'm great communicator and clients tend to love working with me. <br>
 I understand the client's business domain and needs. <br>
 
+<details>
+  <summary>📊 My Github Stats</summary>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AlameerAshraf&show_icons=true" alt="stats" />
+  <p align="left"> <img src="https://gh-readme-stats-thepinsteam.vercel.app/api/top-langs/?username=AlameerAshraf&layout=compact" alt="stats" />
+</details>
+
 
 ### Getting in touch
 
